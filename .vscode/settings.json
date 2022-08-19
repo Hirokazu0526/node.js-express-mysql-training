@@ -1,0 +1,5 @@
+{
+  "html.format.enable": true,
+  "editor.formatOnSave": false,
+  "editor.tabSize": 2
+}
